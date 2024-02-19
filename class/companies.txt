@@ -1,0 +1,15 @@
+1.Tata Consultancy Services (TCS)
+2.Infosys
+3.Cognizant Technology Solutions
+4.HCL Technologies
+5.Wipro
+6.Tech Mahindra
+7.Zoho Corporation
+8.PayPal
+9.Freshworks
+10.Ramco Systems
+11.Hexaware Technologies
+12.Mindtree
+13.Polaris Consulting & Services Limited
+14.L&T Technology Services
+15.CSS Corp

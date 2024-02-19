@@ -1,0 +1,8 @@
+byte: 8 bits, ranges from -128 to 127.
+short: 16 bits, ranges from -32,768 to 32,767.
+int: 32 bits, ranges from -2^31 to 2^31 - 1.
+long: 64 bits, ranges from -2^63 to 2^63 - 1.
+float: 32 bits,  7 decimal places of precision.
+double: 64 bits, 15 decimal places of precision.
+char:16 bits,represents a Unicode character.
+boolean:true or false.
